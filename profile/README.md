@@ -1,4 +1,4 @@
-L’Ouvroir, laboratoire d’histoire de l’art et de muséologie numérique de l’Université de Montréal, est une infrastructure de recherche destinée à soutenir le travail conduit dans le cadre du Partenariat « Des nouveaux usages des collections dans les musées d’art » ([CIÉCO](https://www.cieco.co)).
+L’Ouvroir d’histoire de l’art et de muséologie numérique de l’Université de Montréal est une infrastructure de recherche destinée à soutenir le travail conduit dans le cadre du Partenariat « Des nouveaux usages des collections dans les musées d’art » ([CIÉCO](https://www.cieco.co)).
 
 - [Site web](http://ouvroir.github.io)
 - [Gestionnaire de tâches](https://github.com/orgs/ouvroir/projects/1)
