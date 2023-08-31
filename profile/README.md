@@ -1,5 +1,3 @@
 L’**Ouvroir d’histoire de l’art et de muséologie numériques** de l’Université de Montréal est une infrastructure de recherche destinée à soutenir le travail conduit dans le cadre du Partenariat « Des nouveaux usages des collections dans les musées d’art » ([CIÉCO](https://www.cieco.co)). Ce laboratoire fournit à l’ensemble de l’équipe un équipement de pointe pour mener la recherche mais aussi pour expérimenter et développer de nouveaux usages des collections numérisées qui mobilisent le web, les techniques de visualisation 3D et la réalité virtuelle et augmentée.
 
-[Gestionnaire de tâches](https://github.com/orgs/ouvroir/projects/1) | [Pad collaboratif](https://demo.hedgedoc.org/vMcWp0nwRe-XJGhdmpeC8w#) | [Calendrier](https://github.com/ouvroir/labouvroir/blob/main/calendrier.md)
-
 _L’Ouvroir bénéficie du soutien de l’[Université de Montréal](https://www.umontreal.ca), du [Fonds Canadien pour l’Innovation](https://www.innovation.ca) et de la [province du Québec](https://www.quebec.ca)._
